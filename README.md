@@ -1,2 +1,2 @@
 # Spider-things
-Random fun applications using fastai CV
+Random fun applications of Marvel Spiderman Movies using fastai CV
